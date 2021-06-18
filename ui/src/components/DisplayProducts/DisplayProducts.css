@@ -1,0 +1,10 @@
+.DisplayProducts {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+span {
+    margin-left: 10px;
+  }

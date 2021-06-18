@@ -1,25 +1,37 @@
-// import logo from '../logo.svg';
-import './App.css';
+import { useState, useEffect } from "react"
+// import Navbar from "../Navbar/Navbar"
+import Home from "../Home/Home"
+import "./App.css"
+import axios from "axios"
+import { BrowserRouter, Routes, Route } from "react-router-dom"
+import IndividualProduct from "../IndividualProduct/IndividualProduct"
 
-function App() {
+export default function App() {
+  const [products, setProducts] = useState([])
+  const [error, setError] = useState("")
+
+  useEffect(() => {
+    const fetchProducts = async() => {
+      try {
+        const res = await axios.get("http://localhost:3001/store/")
+        setProducts(res.data.products)  
+    } catch(err) {
+        setError(err)
+      }
+    }
+    fetchProducts()
+  }, [])
+  
+  console.log(products)
   return (
     <div className="App">
-      <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home products={products}/>} />
+          <Route path="/:idNumber" element={<IndividualProduct />} />
+        </Routes>
+      </BrowserRouter>
     </div>
   );
 }
 
-export default App;

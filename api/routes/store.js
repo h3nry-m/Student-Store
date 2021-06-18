@@ -24,8 +24,8 @@ router.post("/order", async (req, res, next) => {
 router.get("/:idNumber", async (req,res,next) => {
     const idNumber = req.params.idNumber
     // console.log("number being captured", idNumber)
-    let item = await Store.displayProduct(idNumber)
-    res.status(200).json(item)
+    let product = await Store.displayProduct(idNumber)
+    res.status(200).json(product)
 })
 
 

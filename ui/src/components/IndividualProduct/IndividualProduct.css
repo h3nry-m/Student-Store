@@ -1,0 +1,16 @@
+.IndividualProduct {
+    display:flex;
+    justify-content: center;
+    flex-direction: column
+}
+
+.IndividualProduct .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.IndividualProduct img {
+    height: 250px;
+    width: 300px;
+}

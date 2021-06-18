@@ -16,7 +16,7 @@
       "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
       "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
       "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
-      "price": 1.5
+      "price": 1.54
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "category": "food",
       "image": "https://static.openfoodfacts.org/images/products/500/015/930/3774/front_fr.57.full.jpg",
       "source": "https://world.openfoodfacts.org/product/5000159303774/skittles",
-      "description": "Taste the rainbow",
+      "description": "Taste the Rainbow—Original bold fruit flavors include orange, lemon, green apple, grape, and strawberry.",
       "price": 0.75
     },
     {
@@ -33,8 +33,62 @@
       "category": "food",
       "image": "https://static.openfoodfacts.org/images/products/471/290/501/6067/front_en.5.full.jpg",
       "source": "https://world.openfoodfacts.org/product/4712905016067/japanese-style-green-tea-mochi-yuki-love",
-      "description": "Mochi",
-      "price": 0.75
+      "description": "The sweet mochi filling has a delicate green tea flavor. Mochi can be eaten all year round, anytime, anywhere! ",
+      "price": 2.75
+    },
+    {
+      "id": 5,
+      "name": "Onigiri",
+      "category": "food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
+      "source": "https://en.wikipedia.org/wiki/Onigiri",
+      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
+      "price": 2.75
+    },
+    {
+      "id": 6,
+      "name": "Shin Ramen",
+      "category": "food",
+      "image": "https://static.openfoodfacts.org/images/products/003/114/602/2861/front_en.16.400.jpg",
+      "source": "https://world.openfoodfacts.org/product/0031146022861/nongshim-shin-ramyun-noodle-soup",
+      "description": "Shin Ramyun, well known for its spicy flavor, is produced in at least four varieties.",
+      "price": 2.75
+    },
+    {
+      "id": 7,
+      "name": "Onigiri",
+      "category": "food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
+      "source": "https://en.wikipedia.org/wiki/Onigiri",
+      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
+      "price": 2.75
+    },
+    {
+      "id": 8,
+      "name": "Onigiri",
+      "category": "food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
+      "source": "https://en.wikipedia.org/wiki/Onigiri",
+      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
+      "price": 2.75
+    },
+    {
+      "id": 9,
+      "name": "Onigiri",
+      "category": "food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
+      "source": "https://en.wikipedia.org/wiki/Onigiri",
+      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
+      "price": 2.75
+    },
+    {
+      "id": 10,
+      "name": "Onigiri",
+      "category": "food",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
+      "source": "https://en.wikipedia.org/wiki/Onigiri",
+      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
+      "price": 2.75
     }
   ],
   "orders": []

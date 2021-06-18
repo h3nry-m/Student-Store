@@ -1,0 +1,25 @@
+.productInfo {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 325px;
+    border-style: solid;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(226, 226, 226);
+    color: black;
+    border-radius: 25px;
+}
+a:link {
+    text-decoration: none;
+}
+
+.productInfo img {
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    border-radius: 25px;
+}

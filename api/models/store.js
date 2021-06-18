@@ -7,13 +7,18 @@ const { storage } = require("../data/storage")
 
 class Store {
     static async displayProduct(idNumber) {
-        let product = storage.get("products").value()[idNumber-1]
+        // let product = storage.get("products").value()[idNumber-1]
+        // return product
+        const product = storage 
+        .get("products")
+        .find({ id: Number(idNumber)})
+        .value()
         return product
     }
 
     static async displayProducts() {
-        let answer = storage.get("products").value()
-        return answer
+        let products = storage.get("products").value()
+        return products
     }
 
 
