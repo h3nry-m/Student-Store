@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react"
-// import Navbar from "../Navbar/Navbar"
 import Home from "../Home/Home"
 import "./App.css"
 import axios from "axios"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import IndividualProduct from "../IndividualProduct/IndividualProduct"
 import NavBar from "../NavBar/NavBar"
+import Sidebar from "../Sidebar/Sidebar"
 
 export default function App() {
   const [products, setProducts] = useState([])
@@ -28,6 +28,7 @@ export default function App() {
     <div className="App">
       <BrowserRouter>
         <NavBar />
+        {/* <Sidebar /> */}
         <Routes>
           <Route path="/" element={<Home products={products}/>} />
           <Route path="/:idNumber" element={<IndividualProduct />} />
