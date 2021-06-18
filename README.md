@@ -28,7 +28,7 @@ Submitted by: **Henry**
 `TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
 `ADD_EMBEDDED_CODE_HERE`
-![gif of walkthrough](https://recordit.co/g1axNa8ei4)
+![gif of walkthrough](http://g.recordit.co/g1axNa8ei4.gif)
 
 ### Reflection
 
