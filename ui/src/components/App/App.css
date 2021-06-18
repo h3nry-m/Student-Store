@@ -1,7 +1,13 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  font-family: 'Rubik', sans-serif;
+  background-color:#edc596;
+  /* height: 300px; */
+  /* padding: 30px; */
+  /* padding-left: 50px;
+  padding-right: 50px; */
 }
-
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +41,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

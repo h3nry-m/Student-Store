@@ -5,6 +5,7 @@ import "./App.css"
 import axios from "axios"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import IndividualProduct from "../IndividualProduct/IndividualProduct"
+import NavBar from "../NavBar/NavBar"
 
 export default function App() {
   const [products, setProducts] = useState([])
@@ -26,6 +27,7 @@ export default function App() {
   return (
     <div className="App">
       <BrowserRouter>
+        <NavBar />
         <Routes>
           <Route path="/" element={<Home products={products}/>} />
           <Route path="/:idNumber" element={<IndividualProduct />} />

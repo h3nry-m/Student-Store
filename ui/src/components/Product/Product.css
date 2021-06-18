@@ -4,12 +4,13 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    width: 300px;
+    width: 275px;
     height: 325px;
-    border-style: solid;
+    /* border-style: solid; */
+    /* border-color: #edc596; */
     padding: 5px;
     margin: 10px;
-    background-color: rgb(226, 226, 226);
+    background-color: #fcb500;
     color: black;
     border-radius: 25px;
 }

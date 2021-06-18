@@ -25,13 +25,14 @@ export default function IndividualProduct() {
   }, [])
   return (
       <div className="IndividualProduct">
-        <p>{product.name}</p>
         <span className="name"><strong>{product.name}</strong></span>
         <div className="image">
             <img src={product.image} alt={product.name}/>
         </div>
-        <span className="description"><strong>Description: </strong>{product.description}</span>
-        <span className="price"><strong>Price: </strong>${product.price}</span>
+        <div className="moreInfo">
+          <span className="description"><strong>Description: </strong>{product.description}</span>
+          <span className="price"><strong>Price: </strong>${product.price}</span>
+        </div>
       </div>
   )}
 

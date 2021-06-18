@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Rice Krispies",
       "category": "food",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/RKTsquares.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81P1-1NdMrL._SL1500_.jpg",
       "source": "https://en.wikipedia.org/wiki/Rice_Krispies_Treats",
       "description": "Delicious corn-based rice grains melted together with marshmallows into a square-like shape.",
       "price": 0.99
@@ -13,7 +13,7 @@
       "id": 2,
       "name": "Flamin Hot Cheetos",
       "category": "food",
-      "image": "https://static.openfoodfacts.org/images/products/896/400/009/0879/front_en.14.full.jpg",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51WzWcJepmL.jpg",
       "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
       "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
       "price": 1.54
@@ -29,12 +29,12 @@
     },
     {
       "id": 4,
-      "name": "Japan Style Green Tea",
+      "name": "Japan Style Green Tea Mochi",
       "category": "food",
       "image": "https://static.openfoodfacts.org/images/products/471/290/501/6067/front_en.5.full.jpg",
       "source": "https://world.openfoodfacts.org/product/4712905016067/japanese-style-green-tea-mochi-yuki-love",
       "description": "The sweet mochi filling has a delicate green tea flavor. Mochi can be eaten all year round, anytime, anywhere! ",
-      "price": 2.75
+      "price": 5.75
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
       "source": "https://en.wikipedia.org/wiki/Onigiri",
       "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
-      "price": 2.75
+      "price": 3.69
     },
     {
       "id": 6,
@@ -56,39 +56,21 @@
     },
     {
       "id": 7,
-      "name": "Onigiri",
+      "name": "Pocky",
       "category": "food",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
-      "source": "https://en.wikipedia.org/wiki/Onigiri",
-      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
-      "price": 2.75
+      "image": "https://www.nicepng.com/png/full/185-1851996_amazingphil-transparent-pocky-jpg-library-stock-glico-chocolate.png",
+      "source": "https://en.wikipedia.org/wiki/Pocky",
+      "description": "Pocky is a very popular treat in Japan, especially among teenagers. In bars, it is sometimes served with a glass of ice water or milk.",
+      "price": 1.76
     },
     {
       "id": 8,
-      "name": "Onigiri",
+      "name": "Kit Kat",
       "category": "food",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
-      "source": "https://en.wikipedia.org/wiki/Onigiri",
-      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
-      "price": 2.75
-    },
-    {
-      "id": 9,
-      "name": "Onigiri",
-      "category": "food",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
-      "source": "https://en.wikipedia.org/wiki/Onigiri",
-      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
-      "price": 2.75
-    },
-    {
-      "id": 10,
-      "name": "Onigiri",
-      "category": "food",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Onigiri_by_yomi955.jpg",
-      "source": "https://en.wikipedia.org/wiki/Onigiri",
-      "description": "Onigiri makes rice portable and easy to eat as well as preserving it, while sushi originated as a way of preserving fish.",
-      "price": 2.75
+      "image": "https://www.hersheyland.com/content/dam/hersheyland/en-us/life-style/brands/kit-kat/key-lime-kit-kat-package.jpg",
+      "source": "https://en.wikipedia.org/wiki/Kit_Kat",
+      "description": "The standard bars consist of two or four pieces composed of three layers of wafer, separated and covered by an outer layer of chocolate. Each finger can be snapped from the bar separately. There are many flavours of Kit Kat, including milk, white, and dark chocolate.",
+      "price": 1.89
     }
   ],
   "orders": []

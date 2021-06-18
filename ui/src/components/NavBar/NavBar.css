@@ -1,0 +1,51 @@
+.NavBar {
+    /* display: flex; */
+    background: #c43d16;
+    height: 100px;
+    /* justify-content: flex-end;
+    align-items: center; */
+    /* padding: 0; */
+}
+
+.NavBar .Links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 25px;
+}
+.NavBar .Links .home {
+    /* padding: 10px;
+    */
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 15px;
+    color: #edc596;
+    /* font-size: 50px; */
+}
+
+.NavBar .Links .about {
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 15px;
+    color: #edc596;
+}
+
+.NavBar .Links .contact {
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    /* margin-right: 20px; */
+    color: #edc596;
+}
+
+.NavBar .Title .StoreTitle{
+    display: flex;
+    /* justify-content: flex-start;
+    align-items: center; */
+    color: black;
+    font-family: Rubik;
+    font-size: 50px;
+    padding-left: 50px;
+    padding-top:10px;
+    /* margin-top: 30px; */
+}
