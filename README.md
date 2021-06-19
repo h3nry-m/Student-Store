@@ -26,7 +26,7 @@ Submitted by: **Henry**
 ### Walkthrough Video
 ![gif of walkthrough](https://cdn.loom.com/sessions/thumbnails/d17511ed510446c9ab573c31a781a9c0-with-play.gif)
 
-![Link with audio](https://www.loom.com/share/d17511ed510446c9ab573c31a781a9c0)
+[Link with audio](https://www.loom.com/share/d17511ed510446c9ab573c31a781a9c0)
 
 ### Reflection
 
