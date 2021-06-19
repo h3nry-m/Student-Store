@@ -24,7 +24,9 @@ Submitted by: **Henry**
 - [ ] Allow users to use an input to filter orders by the email of the person who placed the order.
 
 ### Walkthrough Video
-![gif of walkthrough](http://g.recordit.co/g1axNa8ei4.gif)
+![gif of walkthrough](https://cdn.loom.com/sessions/thumbnails/d17511ed510446c9ab573c31a781a9c0-with-play.gif)
+
+![Link with audio](https://www.loom.com/share/d17511ed510446c9ab573c31a781a9c0)
 
 ### Reflection
 
