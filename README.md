@@ -36,7 +36,7 @@ The topics discussed in the labs prepared me for completing the assignment. The 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-I would have tried working on more stretch features and definitely worked on more of the CSS. I think I also would have experimented more with Figma. Some of my peers started with Figma and they were able to use their designs from Figma to inform their CSS.
+I would have tried working on more stretch features and definitely worked on more of the CSS. I think I also would have experimented more with Figma. Some of my peers started with Figma and they were able to use their designs from Figma to inform their CSS. In the future I would like to practice using Figma to help with the design.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
